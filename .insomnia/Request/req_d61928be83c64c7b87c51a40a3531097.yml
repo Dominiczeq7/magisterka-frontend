@@ -1,0 +1,26 @@
+_id: req_d61928be83c64c7b87c51a40a3531097
+type: Request
+parentId: fld_08f4abf71ac34779b2906cd8769f7582
+modified: 1632260854216
+created: 1632260844690
+url: localhost:3000/schedules/statuses/1
+name: status
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3b5db1331b40482bbd6ef53e71fae840
+authentication: {}
+metaSortKey: -1632260844690
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

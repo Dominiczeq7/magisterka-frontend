@@ -1,0 +1,21 @@
+_id: req_b3260bdd42444fe4bab03db492d4cbb9
+type: Request
+parentId: wrk_9796a2e7c2f847f0b3cba24336ac73d9
+modified: 1629386712535
+created: 1629386710869
+url: localhost:3000
+name: strona główna
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1629386710869
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

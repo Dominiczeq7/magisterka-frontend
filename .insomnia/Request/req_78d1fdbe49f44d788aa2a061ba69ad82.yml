@@ -1,0 +1,26 @@
+_id: req_78d1fdbe49f44d788aa2a061ba69ad82
+type: Request
+parentId: fld_08f4abf71ac34779b2906cd8769f7582
+modified: 1632262441997
+created: 1632262417194
+url: localhost:3000/schedules/versions/1
+name: version
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2531e27891a7450b9baaac5ef2470efb
+authentication: {}
+metaSortKey: -1632262417194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

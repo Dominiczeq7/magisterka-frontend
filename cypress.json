@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:4000",
+  "env": {
+    "login_cookie": "%7B%22id%22%3A4%2C%22name%22%3A%22Olaf%22%2C%22surname%22%3A%22Dobosz%22%2C%22email%22%3A%22ryba%40poczta.pl%22%2C%22permission%22%3A%7B%22id%22%3A1%2C%22name%22%3A%22administrator%22%7D%2C%22status%22%3A%7B%22id%22%3A1%2C%22name%22%3A%22aktywny%22%7D%2C%22student%22%3A%7B%22id%22%3A4%2C%22album%22%3A123456%7D%7D"
+  }
+}

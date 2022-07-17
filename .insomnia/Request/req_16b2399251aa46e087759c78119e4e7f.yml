@@ -1,0 +1,33 @@
+_id: req_16b2399251aa46e087759c78119e4e7f
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629555772695
+created: 1629555480141
+url: localhost:3000/importances/absences
+name: absence
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"hour_from": "9:00",
+    	"hour_to": "15:00",
+    	"day_of_the_week":"4",
+    	"teacher":2,
+    	"rating":"5"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_03feb1d78f4148198d82c7418b3479f6
+authentication: {}
+metaSortKey: -1629555480141
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

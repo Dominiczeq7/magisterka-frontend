@@ -1,0 +1,32 @@
+_id: req_cc58d62027e84f7b913a893988b784e5
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629494076605
+created: 1629493805616
+url: localhost:3000/importances/equipment
+name: equipment
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"rating":"2",
+    	"equipment": 2,
+    	"quantity": "1",
+    	"demand": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0a91d662e4224c47bc65841184a149f9
+authentication: {}
+metaSortKey: -1629493805616
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

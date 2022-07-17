@@ -1,0 +1,33 @@
+_id: req_894f982731264612bc4246beb9d7fb91
+type: Request
+parentId: fld_ef7d6eb8f1d849bf9f6859dae9b11b07
+modified: 1629400417820
+created: 1629400417820
+url: localhost:3000/structures/structures
+name: structure
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "FAIS2",
+      "description": "kiedyś to było",
+      "level": 2,
+      "address": null,
+      "parent_structure": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6f703c9ae6d7425fbb384fe76d175e02
+authentication: {}
+metaSortKey: -1626520928284
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

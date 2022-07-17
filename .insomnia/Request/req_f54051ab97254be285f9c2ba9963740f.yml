@@ -1,0 +1,29 @@
+_id: req_f54051ab97254be285f9c2ba9963740f
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629552808061
+created: 1629552641463
+url: localhost:3000/importances/equipment/1
+name: equipment
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"equipment":3
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_aafd9afef15443929c36026ef60beb66
+authentication: {}
+metaSortKey: -1629552641463
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

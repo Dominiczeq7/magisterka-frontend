@@ -1,0 +1,29 @@
+_id: req_ebe57c5b5edc4805896e04a83089d9ae
+type: Request
+parentId: fld_ef7d6eb8f1d849bf9f6859dae9b11b07
+modified: 1629400417845
+created: 1629400417845
+url: localhost:3000/structures/structures/3
+name: structure
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"parent_structure": null
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2c0653bb24cb46baa91ec4c7adb523c4
+authentication: {}
+metaSortKey: -1626720367926
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

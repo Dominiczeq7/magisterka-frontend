@@ -1,0 +1,33 @@
+_id: req_60dfba471044468c8f16bf3f82dc48fe
+type: Request
+parentId: fld_9728f45711aa4d41be8a8633771b98ae
+modified: 1629400412298
+created: 1629400412298
+url: localhost:3000/activities/activities
+name: activity
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"subject": 1,
+    	"teacher": 1,
+    	"activityType": 1,
+    	"group":3,
+    	"demand": null
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bf4b9ab09be647efaba7d10276c4aa98
+authentication: {}
+metaSortKey: -1627240791762
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

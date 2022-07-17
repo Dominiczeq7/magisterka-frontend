@@ -1,0 +1,26 @@
+_id: req_72ff088c390c497998530edd74ef642f
+type: Request
+parentId: fld_08f4abf71ac34779b2906cd8769f7582
+modified: 1632260045131
+created: 1632260041211
+url: localhost:3000/schedules/semesters
+name: semester
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e413e3c5b1b34687a864d24143dca32d
+authentication: {}
+metaSortKey: -1632260041211
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_5b590ec79af040f6b4a77587b50a42a1
+type: Request
+parentId: fld_9728f45711aa4d41be8a8633771b98ae
+modified: 1629400412236
+created: 1629400412236
+url: localhost:3000/activities/types
+name: type
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"ćwieczenia"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2788e9eb62844ea6b2fb287b5fc0494e
+authentication: {}
+metaSortKey: -1627237515199
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_e7b48d3a41b846688898245c1a8a47db
+type: Request
+parentId: fld_e21471a5d9484a5ba32a19abb7b15098
+modified: 1629400407533
+created: 1629400407533
+url: localhost:3000/groups/classes
+name: class
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"start_year":"2021",
+    	"end_year":"2024",
+    	"structure":2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e7b8dbe7799f440698e6429cd0e2d4f9
+authentication: {}
+metaSortKey: -1627419421061
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

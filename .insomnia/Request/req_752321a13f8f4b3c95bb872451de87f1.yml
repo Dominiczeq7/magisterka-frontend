@@ -1,0 +1,29 @@
+_id: req_752321a13f8f4b3c95bb872451de87f1
+type: Request
+parentId: fld_736034d1c33a4474a0c2df47c8e9ea7a
+modified: 1630441740923
+created: 1630441677419
+url: localhost:3000/users/teachers/1
+name: teacher
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"dr"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a2407fea28e441ed84ed91b7e3bb8450
+authentication: {}
+metaSortKey: -1630441677419
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

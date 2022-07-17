@@ -1,0 +1,29 @@
+_id: req_9a9ec72345234ddd9a13f1c6056a4901
+type: Request
+parentId: fld_9728f45711aa4d41be8a8633771b98ae
+modified: 1629400412183
+created: 1629400412183
+url: localhost:3000/activities/subjects/2
+name: subject
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Fizyka"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_842034e1db6d4bd7b84bcc1a82fcc7a2
+authentication: {}
+metaSortKey: -1627162192584
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_18846f31c21f4748a9d8aac2fc20c031
+type: Request
+parentId: fld_736034d1c33a4474a0c2df47c8e9ea7a
+modified: 1629386552230
+created: 1629386552230
+url: localhost:3000/users/users
+name: user
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "Olaf",
+      "surname": "Dobosz",
+      "email": "ryba@poczta.pl",
+      "permission": 3,
+    	"status": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e9b9d3f1e3e5484e85f6cda1ad16915b
+authentication: {}
+metaSortKey: -1626375951413
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_1fbe5ca55fb7443288fd792695c009a7
+type: Request
+parentId: fld_736034d1c33a4474a0c2df47c8e9ea7a
+modified: 1630442986226
+created: 1630442943600
+url: localhost:3000/users/students/1
+name: student
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"album":"102031"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_730c012708c747198c58717460d6dcc4
+authentication: {}
+metaSortKey: -1630442943600
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

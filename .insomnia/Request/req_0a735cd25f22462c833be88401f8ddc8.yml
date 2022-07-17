@@ -1,0 +1,29 @@
+_id: req_0a735cd25f22462c833be88401f8ddc8
+type: Request
+parentId: fld_d709f580f177480285509ab5ef7e804b
+modified: 1629400402802
+created: 1629400402802
+url: localhost:3000/classrooms/equipment
+name: equipment
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"rzutnik"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c4b5f35eac654f78bec5054a67829f98
+authentication: {}
+metaSortKey: -1627854406087
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

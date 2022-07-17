@@ -1,0 +1,30 @@
+_id: req_a0f0b2a2b13d40d295b7751c72614d98
+type: Request
+parentId: fld_e21471a5d9484a5ba32a19abb7b15098
+modified: 1629400407468
+created: 1629400407468
+url: localhost:3000/groups/groups
+name: group
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Ang1",
+    	"class":null
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_896637f2bacc4e22880807232c195825
+authentication: {}
+metaSortKey: -1627416420926
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

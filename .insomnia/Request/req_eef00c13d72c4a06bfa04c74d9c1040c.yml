@@ -1,0 +1,31 @@
+_id: req_eef00c13d72c4a06bfa04c74d9c1040c
+type: Request
+parentId: fld_d709f580f177480285509ab5ef7e804b
+modified: 1629400402736
+created: 1629400402736
+url: localhost:3000/classrooms/classrooms
+name: classroom
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"number":"101",
+    	"floor":"1",
+    	"structure":1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3512b30413e344169c94bb822eb40d49
+authentication: {}
+metaSortKey: -1627503915957
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

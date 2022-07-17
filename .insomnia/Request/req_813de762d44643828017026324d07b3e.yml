@@ -1,0 +1,34 @@
+_id: req_813de762d44643828017026324d07b3e
+type: Request
+parentId: fld_d709f580f177480285509ab5ef7e804b
+modified: 1629400402749
+created: 1629400402749
+url: localhost:3000/classrooms/classrooms/2
+name: classroom
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "classroom_equipment": [
+    		{
+          "quantity": 1,
+          "equipment": 4
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_40219d80991446b3a9a91d2ce21e1d84
+authentication: {}
+metaSortKey: -1627505146854
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

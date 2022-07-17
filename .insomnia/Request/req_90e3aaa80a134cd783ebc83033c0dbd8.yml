@@ -1,0 +1,29 @@
+_id: req_90e3aaa80a134cd783ebc83033c0dbd8
+type: Request
+parentId: fld_08f4abf71ac34779b2906cd8769f7582
+modified: 1632259156482
+created: 1632259139001
+url: localhost:3000/schedules/schedules
+name: schedule
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b7a74141a5844712a79cb7203d6f3ed5
+authentication: {}
+metaSortKey: -1632259139001
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_ae5482db704345d8882ce0985d977160
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629400350112
+created: 1629400350112
+url: localhost:3000/importances/demands/1
+name: demand
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"remote_rating": "3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_75d02a8f7b164273b0d5547c31868b09
+authentication: {}
+metaSortKey: -1629319208560
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

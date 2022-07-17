@@ -1,0 +1,31 @@
+_id: req_c01afd68c1ea4bf4b9d725578f31862b
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629491586844
+created: 1629491185961
+url: localhost:3000/importances/classes
+name: class
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"rating":"4",
+    	"demand": 2,
+    	"classroom":2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3b3fb211ac584bce9869062a7d5a33b9
+authentication: {}
+metaSortKey: -1629491185961
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

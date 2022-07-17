@@ -1,0 +1,29 @@
+_id: req_1a50686b7c744fe9a7e8a075f1f3ba7d
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629400350088
+created: 1629400350088
+url: localhost:3000/importances/demands
+name: demand
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"remote_rating": "2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8f4855889c89422ea3ca7f3bc51dc994
+authentication: {}
+metaSortKey: -1629318288965
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

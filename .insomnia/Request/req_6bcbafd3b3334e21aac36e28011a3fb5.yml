@@ -1,0 +1,29 @@
+_id: req_6bcbafd3b3334e21aac36e28011a3fb5
+type: Request
+parentId: fld_9728f45711aa4d41be8a8633771b98ae
+modified: 1629400412168
+created: 1629400412168
+url: localhost:3000/activities/subjects
+name: subject
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name" : "bazy danych"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8827aafae1f8427497daf0b5dbc4a5f1
+authentication: {}
+metaSortKey: -1627162033052
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

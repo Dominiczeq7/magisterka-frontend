@@ -1,0 +1,29 @@
+_id: req_f86b0db7bdf84aa585597ac07e14bc82
+type: Request
+parentId: fld_e21471a5d9484a5ba32a19abb7b15098
+modified: 1629400407545
+created: 1629400407545
+url: localhost:3000/groups/classes/1
+name: class
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"structure":1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_afee366e2a6a4b988c0b82462e3600ce
+authentication: {}
+metaSortKey: -1627420052604
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

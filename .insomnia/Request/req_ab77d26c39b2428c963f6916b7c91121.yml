@@ -1,0 +1,29 @@
+_id: req_ab77d26c39b2428c963f6916b7c91121
+type: Request
+parentId: fld_ffd566220847430da5ab51fd5f0795a9
+modified: 1629491761601
+created: 1629491714225
+url: localhost:3000/importances/classes/3
+name: class
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"rating":"5"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1fb26d298062488b80dc787406f2386d
+authentication: {}
+metaSortKey: -1629491714225
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
